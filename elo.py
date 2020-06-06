@@ -184,5 +184,5 @@ def display_leaderboard(length):
 		position += 1
 
 if __name__ == "__main__":
-	print(os.getpid())
+	# print(os.getpid())
 	main()
