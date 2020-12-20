@@ -6,10 +6,10 @@ Now you too can create your own Elo hells with fire stolen from the very first h
 
 ## Installation and usage
 
-1. Get Python 3.8. """"""In return"""""" for having no dependencies, I shall ask you to get on with the times and install the latest Python
+1. Get Python 3.9. """"""In return"""""" for having no dependencies, I shall ask you to get on with the times and install the latest Python
 2. `git clone https://github.com/dorukayhan/arpads-pokol`
 3. `cd arpads-pokol`
 4. `./elo.py a-name-for-your-hell` (or `py -3 elo.py a-name-for-your-hell` if you're a Windows peasant like me)
 5. Follow the instructions
 
-Once you get a hell (or, more mildly, a pool) going under the name of, say, `example`, it'll be saved in `./example.elog`. Use `example` as the hell/pool name again in later executions to keep using it.
+Once you get a hell (or a pool, in milder terms) going under the name of, say, `example`, it'll be saved in `./example.elog`. Use `example` as the pool name again in later executions to keep using it.
